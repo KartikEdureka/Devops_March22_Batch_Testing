@@ -2,3 +2,7 @@ Edureka live training
 - Devops
 - Cloud computing
 - Automation
+
+
+
+- Data Science
