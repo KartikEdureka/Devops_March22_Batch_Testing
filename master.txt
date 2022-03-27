@@ -6,3 +6,5 @@ Edureka live training
 
 
 - Data Science
+- Haddop and Spark
+- python  ,java
