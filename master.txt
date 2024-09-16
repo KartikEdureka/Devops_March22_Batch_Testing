@@ -8,4 +8,8 @@ Edureka live training
 - Data Science
 - Haddop and Spark
 - python  ,java
+
+- Informatica ,selenium
+
 - C++ ,SQL
+
